@@ -1,12 +1,7 @@
-## Hi there 👋
+# HeliosXCore
 
-<!--
+**HeliosXCore** is a single-issue Out of Order execute processor core.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [HeliosXCore/HeliosXCore](https://github.com/HeliosXCore/HeliosXCore) is the prcessor core.
+- [HeliosXCore/HeliosXSimulator](https://github.com/HeliosXCore/HeliosXSimulator) is a verilator-based Soc Simulator for HeliosXCore.
+- [HeliosXCore/HeliosXEmulator](https://github.com/HeliosXCore/HeliosXEmulator) is a RISC-V emulator written in C for verilator simulation.
